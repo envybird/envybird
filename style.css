@@ -1,0 +1,18 @@
+p {
+    margin: 15px;
+    text-align: center;
+}
+
+.navbar {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px;
+}
+
+.blogbox {
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
