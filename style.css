@@ -207,7 +207,6 @@ hr {
  #right-sidebar {
      width:199px;
      border:1px solid var(--dkest-color);
-     text-align: center;
 }
  #container {
      max-width:1000px;
