@@ -51,6 +51,11 @@
      opacity: 75%;
      background-color:var(--lt-color);
 }
+#header hr {
+     width: 100%;
+     margin-left: 0px;
+     margin-top: -2px;
+}
  .navbar li a {
      text-decoration:none;
 }
