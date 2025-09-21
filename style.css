@@ -182,6 +182,7 @@
 }
 hr {
      border:0.1px solid var(--dkest-color);
+     margin: auto -10px;
 }
  #footer {
      text-align:center;
